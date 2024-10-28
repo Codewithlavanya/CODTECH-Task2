@@ -16,7 +16,7 @@
 
 ## OVERVIEW OF THE PROJECT
 
-### PROJECT: To-Do-List
+### PROJECT: Weather Forecast App
 
 
 ### OBJECTIVE :
